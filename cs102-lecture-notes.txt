@@ -12,3 +12,8 @@ Takes the staged snapshot and commits it to the project history. Combined with g
 
 git init
 Initializes a new Git repository.
+
+
+Summary:
+learned about github and git and github desktop
+learned about the different git commands.
